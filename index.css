@@ -1,0 +1,27 @@
+/* Write your code here. */
+
+.box1 {
+  background-color: #fbbf24;
+  width: 20%;
+  height: 20%;
+}
+.box2 {
+  background-color: #38bdf8;
+  width: 40%;
+  height: 40%;
+}
+.box3 {
+  background-color: #ec4899;
+  width: 80%;
+  height: 80%;
+}
+body {
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  color: #0f172a;
+  text-align: center;
+}
